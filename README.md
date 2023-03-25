@@ -1,3 +1,3 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo . İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![Lorem Picsum Gorsel](https://picsum.photos/200/300)
+![kodluyoruz proje odevi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
